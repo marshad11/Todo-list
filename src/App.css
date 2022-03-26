@@ -1,0 +1,87 @@
+.mainContainer {
+    background-color: #9ceb34;
+    min-height: 80vh;
+    width: 650px;
+    margin: 50px auto ;
+    text-align: center;
+    box-sizing: border-box;
+    border-radius: 15px;
+    box-shadow: 5px 8px 5px #a7a8a5;
+  }
+  .inputbox h1 {
+    margin: 0;
+    padding: 0;
+  }
+  .inputbox {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    line-height: 80px;
+    background-color: #ebba34;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+  }
+  .inputField {
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+    height: 30px;
+    width: 400px;
+    padding: 0 5px;
+    font-size: 17px;
+  }
+  .btn {
+     background-color: #000;
+    border: none; 
+    color: #fff;
+    padding: 7px;
+    box-shadow: px 3px 1.5px #888;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+
+  .btn:hover {
+    background-color: rgb(146, 143, 143);
+  }
+  .secondCont {
+    width: 100%;
+  }
+  .itmes {
+    height: 60px;
+    /* display: flex; */
+    width: 450px;
+    margin: 10px auto;
+    background-color: #ebba34;
+    border: 1px solid #888 ;
+    border-radius: 5px;
+    padding: 5px;
+}
+  h3 {
+      display: inline-block;
+      float: left;
+  }
+  .DE-icons {
+    height: 30px;
+    margin: 15px 5px;;
+    /* float: right; */
+  }
+  .secondIconsCont {
+    float: right;
+    display: inline-block;
+  }
+  .Rbtn {
+    background-color: #4f0606;
+    color: #fff;
+    padding: 5px;
+    box-shadow: 1px 3px 1px #8888;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+  }
+  .Rbtn:hover {
+    background-color: #6e4848;
+
+  }
+  
